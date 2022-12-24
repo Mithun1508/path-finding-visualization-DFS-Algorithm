@@ -1,4 +1,4 @@
-Path-finding Visualization With Just HTML, CSS & JavaScript
+# Path-finding Visualization With Just HTML, CSS & JavaScript
 
 
 # PROCESS
@@ -40,7 +40,7 @@ Final number updated on the node is the cost of reaching that node from the star
 
 # DEMO:
 You can access it here (use Google Chrome!): 
-http://localhost:63342/path-finding-visualization/
+http://localhost:63342/path-finding-visualization/index.html?_ijt=emthdjjon5m89kkcjo0d5tadus&_ij_reload=RELOAD_ON_SAVE
 
 
 
