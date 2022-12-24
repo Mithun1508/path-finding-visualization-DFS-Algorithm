@@ -33,12 +33,9 @@ Depth-first Search (unweighted): Not Good Algorithm for pathfinding; does not gu
 Final number updated on the node is the cost of reaching that node from the starting point. Initial cost to every node except the first, is infinity.
 
 # STEPS:
-   1) Every square is a node.
-
-   2)Every node is connected to the four nodes on its north, east, south, west direction.
-
-   3)Initial number on the node is randomly generated and represents the difficulty in reaching that node from its surrounding nodes.
-Final number updated on the node is the cost of reaching that node from the starting point. Initial cost to every node except the first, is infinity.
+   1. Starting with the chosen node, update the cost of reachable nodes by taking minimum of ( (cost to reach the "coming from" node + difficulty to the visiting node), previously updated cost to the visiting node), set the "coming from" node as parent if the cost is less to come from that node.
+   
+   2. Repeat the steps for reachable nodes in the sequence of least cost to most cost, until all nodes have been visited.
 
 # DEMO:
 You can access it here (use Google Chrome!): 
