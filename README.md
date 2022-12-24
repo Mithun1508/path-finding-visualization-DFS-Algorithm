@@ -33,11 +33,11 @@ Depth-first Search (unweighted): Not Good Algorithm for pathfinding; does not gu
 Final number updated on the node is the cost of reaching that node from the starting point. Initial cost to every node except the first, is infinity.
 
 # STEPS:
-1) Every square is a node.
+   1) Every square is a node.
 
- 2)Every node is connected to the four nodes on its north, east, south, west direction.
+   2)Every node is connected to the four nodes on its north, east, south, west direction.
 
-3)Initial number on the node is randomly generated and represents the difficulty in reaching that node from its surrounding nodes.
+   3)Initial number on the node is randomly generated and represents the difficulty in reaching that node from its surrounding nodes.
 Final number updated on the node is the cost of reaching that node from the starting point. Initial cost to every node except the first, is infinity.
 
 # DEMO:
