@@ -17,12 +17,12 @@ createElement, getAttribute, setAttribute, appendChild (for modifying the DOM)
 # MEET THE ALGORITHMS
 This application supports the following algorithms:
 
-Dijkstra's Algorithm (weighted): It guarantees the shortest path Dijkstra's algorithm optimizes for the shortest cost path to get from the start vertex to a given vertex. 
+# Dijkstra's Algorithm (weighted): It guarantees the shortest path Dijkstra's algorithm optimizes for the shortest cost path to get from the start vertex to a given vertex. 
 We ensure every iteration we are improving our tentative costs from a fully optimized vertex.
 
-Breath-first Search (unweighted): a great algorithm; guarantees the shortest path
+# Breath-first Search (unweighted): a great algorithm; guarantees the shortest path
 
-Depth-first Search (unweighted): Not Good Algorithm for pathfinding; does not guarantee the shortest path
+# Depth-first Search (unweighted): Not Good Algorithm for pathfinding; does not guarantee the shortest path
 
 # SET-UP
 1) Every square is a node.
