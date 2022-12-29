@@ -25,7 +25,7 @@ We ensure every iteration we are improving our tentative costs from a fully opti
    A great algorithm; guarantees the shortest path
 
 # Depth-first Search (unweighted): 
-Not Good Algorithm for pathfinding; does not guarantee the shortest path
+Not Good Algorithm for pathfinding; does not guarantee the shortest path.
 
 # SET-UP
 1) Every square is a node.
