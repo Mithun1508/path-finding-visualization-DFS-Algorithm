@@ -41,7 +41,7 @@ Final number updated on the node is the cost of reaching that node from the star
    2. Repeat the steps for reachable nodes in the sequence of least cost to most cost, until all nodes have been visited.
 
 # DEMO:
-You can access it here (use Google Chrome!): 
+Production Live:
 https://mithun1508.github.io/path-finding-visualization/
 
 
